@@ -3,9 +3,11 @@ circleci-heroku
 
 This project is an example of an application that can be continuously delivered to Heroku through a pipeline based on staging and production environments. Forked from [cd-heroku](https://github.com/circleci/heroku-cd)
 
-##The Video
-A step-by-step walkthrough video detailing how to set the project up on CircleCI and Heroku is on [Continuous Deployment with CircleCI and Heroku - YouTube](https://www.youtube.com/watch?v=Hfs_1yuWDf4) or [Continuous Deployment with Heroku
- - CircleCI](https://circleci.com/docs/1.0/continuous-deployment-with-heroku/).
+##Tutorial
+Tutorial is available - [CI with CircleCI - Heroku deploy](http://bogotobogo.com/DevOps/DevOps-CircleCI-Heroku-Deploy.php)
+
+##Video
+A step-by-step walkthrough video detailing how to set the project up on CircleCI and Heroku is on [Continuous Deployment with CircleCI and Heroku - YouTube](https://www.youtube.com/watch?v=Hfs_1yuWDf4) or [Continuous Deployment with Heroku - CircleCI](https://circleci.com/docs/1.0/continuous-deployment-with-heroku/).
 
 ##Installing and running locally
 * Clone the repo and  `cd circleci-heroku`
